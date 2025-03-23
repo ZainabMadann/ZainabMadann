@@ -8,7 +8,7 @@ I am a full-stack developer with expertise in Golang, JavaScript, and HTML, amon
 
 *   🌍  I'm based in Bahrain
 *   ✉️  You can contact me at [zainabmadann@gmail.com](mailto:zainabmadann@gmail.com)
-*   🧠  I'm learning swift
+*   💡 Learning C# scripting, game physics, and Unity's game engine
 
 ### Skills
 
