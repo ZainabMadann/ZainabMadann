@@ -1,25 +1,17 @@
-<div align="center">
-<h1>Hi 👋, I'm Zainab Madan</h1>
-<h3>Full-Stack Developer</h3>
-<img src="https://komarev.com/ghpvc/?username=zainabmadann&label=Profile%20views&color=0e75b6&style=flat" alt="zainabmadann" />
-</div>
-
-<br/>
-
-- 🌱 I'm currently learning **DevOps**
-
-### Connect with me:
-
-### Languages and Tools:
-
 <div align="left" style="white-space: nowrap; overflow-x: auto;">
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> <a href="https://www.[...] 
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabmadann&show_icons=true&locale=en&layout=compact" alt="zainabmadann" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=zainabmadann&show_icons=true&locale=en" alt="zainabmadann" />
+  ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg)
+  ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg)
+  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
+  ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+  ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg)
+  ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg)
+  ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg)
+  ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg)
+  ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+  ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg)
+  ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg)
+  ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg)
+  ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg)
+  ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)
+  ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg)
 </div>
